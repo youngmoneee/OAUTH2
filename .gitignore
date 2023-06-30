@@ -25,6 +25,7 @@ replay_pid*
 
 db/mariadb/data
 db/mariadb/init
+!db/mariadb/**/.keep
 .DS_STORE
 .idea
 .env
